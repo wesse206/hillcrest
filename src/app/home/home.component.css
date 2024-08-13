@@ -1,0 +1,12 @@
+.cover {
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 1)), url('/cover1.jpg') no-repeat center fixed; 
+    background-size: cover; 
+}
+
+.card {
+    width: 90%; display: block;
+}
+
+hr {
+    border-width: 2px;
+}
